@@ -13,10 +13,16 @@ A virtual internship project to analyze a client's (Social_Buzz) text data to un
 <p>
   The project lead assembles analytics team, explains deliverables, and plans a meeting with the client to learn about their business and needs. Next, the analytics team selects necessary datasets for the business need using the company data model, understands the data, cleans and models the data, analyzes, and reports insights. 
 </p>
-<h3>Insights</h3>
+<h3>Key Findings</h3>
 <ul>
   <li>16 unique content categories identified</li>
   <li>Animal posts had most reactions at 1897 in the year</li>
   <li>January was the busiest month with 781 posts</li>
   <li>Other categories in the top 5: science, healthy eating, technology, and food</li>
+</ul>
+<h3>Insights</h3>
+<ul>
+  <li>Healthy eating and food among the top 5; indicating a health-conscious active users for Social Buzz.</li>
+  <li>Animals, science, and technology the other categories in the top 5; indicating a predilection for "realist" topics for Social Buzz active users.</li>
+  <li>Recommend further analysis incorporating user labels to uncover segments for brand partnerships in healthy eating, pets, and science.</li>
 </ul>
